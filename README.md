@@ -5,7 +5,9 @@
 ###
 
 <div data-importer="socials" align="center">
+   <a href="https://www.linkedin.com/in/shivsing-borade/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
 </div>
 
 ###
@@ -19,7 +21,6 @@
 ###
 
 <p data-importer="text" align="Left">
-<br><br>
 - 🔭 I'm working on Python, Data Science & Generative AI projects<br>
 - 📚 I'm currently learning LLMs, LangChain, APIs, Data Analysis & Machine Learning<br>
 - 🧠 I'm interested in building practical AI and data-driven applications<br>
@@ -62,35 +63,10 @@
 <p align="center">
 🐍 Python &nbsp; • &nbsp;
 📊 Data Science &nbsp; • &nbsp;
-📈 Data Visualization &nbsp; • &nbsp;
+🗄️ Agentic AI &nbsp; • &nbsp;
 🤖 Generative AI &nbsp; • &nbsp;
-🔗 LangChain &nbsp; • &nbsp;
 🧠 LLMs &nbsp; • &nbsp;
-🌐 APIs
 </p>
-
-###
-
-<h3 data-importer="text" align="left">📂 Featured Projects</h3>
-
-###
-
-<div align="center">
-
-📺 <b>Netflix Data Analysis</b><br>
-Data analysis and visualization using Python, Pandas, Matplotlib and Seaborn.
-
-<br><br>
-
-⚡ <b>EV Purchase Analysis</b><br>
-Exploring factors that influence electric vehicle purchase decisions through data analysis.
-
-<br><br>
-
-🤖 <b>Generative AI Projects</b><br>
-Building projects with LLM APIs, LangChain, prompts, messages, embeddings and output types.
-
-</div>
 
 ###
 
@@ -104,10 +80,6 @@ Building projects with LLM APIs, LangChain, prompts, messages, embeddings and ou
 </div>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivsing-borade/shivsing-borade/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivsing-borade/shivsing-borade/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shivsing-borade/shivsing-borade/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
