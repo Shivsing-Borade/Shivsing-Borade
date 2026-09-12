@@ -10,7 +10,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+<h1 data-importer="text" align="center">Hi, I'm Shiv 👋</h1>
 
 ###
 
@@ -18,8 +18,8 @@
 
 ###
 
-<p data-importer="text" align="center">
-I'm Shiv from India 🇮🇳<br><br>
+<p data-importer="text" align="Left">
+<br><br>
 - 🔭 I'm working on Python, Data Science & Generative AI projects<br>
 - 📚 I'm currently learning LLMs, LangChain, APIs, Data Analysis & Machine Learning<br>
 - 🧠 I'm interested in building practical AI and data-driven applications<br>
@@ -94,16 +94,6 @@ Building projects with LLM APIs, LangChain, prompts, messages, embeddings and ou
 
 ###
 
-<h3 data-importer="text" align="left">📚 My Learning Journey</h3>
-
-###
-
-<p align="center">
-I'm focused on learning by building.<br>
-My goal is to turn concepts into practical projects and continuously improve my skills in <b>Data Science and Generative AI</b>.
-</p>
-
-###
 
 <h3 data-importer="text" align="left">🔥 My Stats :</h3>
 
